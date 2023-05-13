@@ -12,6 +12,8 @@ List | #Field name | #Descrription
 8 | Total Number of spondylolisthesis locations | 788 locations (some patients include multiple locations)
 9 | Dataset storage size | 18.5 GB
 10 | Bod | Lumbar
+10 |^^ Bod | Lumbar
+10 |^^ Bod | Lumbar
 # Download the BUU-LSPINEv1 Dataset
 The BUU-LSPINEv1 could be downloaded from the corresponding URL:([Google drive](https://drive.google.com/drive/folders/1pSqtxYT_B2GHweoDAVB_32JNsHykuZK4?usp=sharing), 
 [zip](https://drive.google.com/drive/folders/1pSqtxYT_B2GHweoDAVB_32JNsHykuZK4?usp=sharing))
