@@ -2,23 +2,14 @@
 Introduction area.s
 # Description for the BUU-LSPINE dataset
 List | #Field name | #Descrription 
---- | --- | --- 
 1 | Image type | X-ray (PF) 
---- | --- | --- 
 2 | Image view | AP and LA 
---- | --- | --- 
 3 | Body part | Lumbar spine (LSPINE) 
---- | --- | --- 
 5 | Total Number of patients | 3,600 patients
---- | --- | --- 
 6 | Total Number of images | 7,200 images
---- | --- | --- 
 7 | Total Number of spondylolisthesis patients | 621 patients
---- | --- | --- 
 8 | Total Number of spondylolisthesis locations | 788 locations (some patients include multiple locations)
---- | --- | --- 
 9 | Dataset storage size | 18.5 GB
---- | --- | --- 
 10 | Bod | Lumbar
 # Download the BUU-LSPINEv1 Dataset
 The BUU-LSPINEv1 could be downloaded from the corresponding URL:([Google drive](https://drive.google.com/drive/folders/1pSqtxYT_B2GHweoDAVB_32JNsHykuZK4?usp=sharing), 
