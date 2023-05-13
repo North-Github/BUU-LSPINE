@@ -2,6 +2,7 @@
 Introduction area.s
 # Description for the BUU-LSPINE dataset
 List | #Field name | #Descrription 
+--- | --- | --- 
 1 | Image type | X-ray (PF) 
 2 | Image view | AP and LA 
 3 | Body part | Lumbar spine (LSPINE) 
